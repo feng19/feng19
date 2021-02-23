@@ -5,7 +5,8 @@
   * [游戏协议事件分发路由设计](https://feng19.com/2019/07/31/%E6%B8%B8%E6%88%8F%E5%8D%8F%E8%AE%AE%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E8%B7%AF%E7%94%B1%E8%AE%BE%E8%AE%A1/)
   * [Erlang Guidelines 中文翻译](https://github.com/feng19/erlang_guidelines)
 
-## Tools
+## Projects
+  * [wechat](https://github.com/feng19/wechat) - WeChat SDK for Elixir
   * [tdata](https://github.com/feng19/tdata)
   * [rebar3_reloader](https://github.com/feng19/rebar3_reloader) - [使用简介](https://feng19.com/2019/03/14/rebar3_reloader_usage/)
   * [sf_transform](https://github.com/feng19/sf_transform) - [使用简介](https://feng19.com/2019/03/03/sf_transform_usage/)
