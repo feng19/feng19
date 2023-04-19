@@ -7,10 +7,12 @@
   * [Erlang Guidelines 中文翻译](https://github.com/feng19/erlang_guidelines)
 
 ## Projects
-  * [wechat](https://github.com/feng19/wechat) - WeChat SDK for Elixir
-  * [SpiderMan](https://github.com/feng19/spider_man) - A base-on Broadway fast high-level web crawling & scraping framework for Elixir.
+  * [WeChat](https://github.com/feng19/wechat) - WeChat SDK for Elixir
+  * [SpiderMan](https://github.com/feng19/spider_man) - A base-on Broadway fast high-level web crawling & scraping framework for Elixir
+  * [X-Trace](https://github.com/feng19/x_trace) - A new tool for easy to use recon_trace [Video Demo](https://twitter.com/kevin52069370/status/1644341210541363201)
+  * [captcha](https://github.com/feng19/captcha) - NIF bindings for the captcha Rust implementation
+  * [phx_new_desktop](https://github.com/feng19/phx_new_desktop) - A desktop tool for use phx.new [Video Demo](https://twitter.com/kevin52069370/status/1641352557842014208)
   * [rebar3_reloader](https://github.com/feng19/rebar3_reloader) - [Usage](https://feng19.com/2019/03/14/rebar3_reloader_usage/)
-  * [sf_transform](https://github.com/feng19/sf_transform) - [Usage](https://feng19.com/2019/03/03/sf_transform_usage/)
   * [tdata](https://github.com/feng19/tdata)
 
 ---
