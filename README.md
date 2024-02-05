@@ -4,6 +4,7 @@
   * [Erlang 程序调试浅析](https://feng19.com/2019/01/22/erlang%E7%A8%8B%E5%BA%8F%E8%B0%83%E8%AF%95%E6%B5%85%E6%9E%90/)
   * [游戏协议事件分发路由设计](https://feng19.com/2019/07/31/%E6%B8%B8%E6%88%8F%E5%8D%8F%E8%AE%AE%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E8%B7%AF%E7%94%B1%E8%AE%BE%E8%AE%A1/)
   * [Elixir 微信(WeChat) SDK 使用指南](https://feng19.com/2022/07/08/wechat_for_elixir_usage/)
+  * [Elixir 微信(WeChat) 支付SDK 使用指南](https://feng19.com/2024/02/05/wechat-pay-for-elixir-usage/)
   * [Erlang Guidelines 中文翻译](https://github.com/feng19/erlang_guidelines)
 
 ## Projects
