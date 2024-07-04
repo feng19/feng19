@@ -16,6 +16,26 @@
   * [Rebar3 Reloader](https://github.com/feng19/rebar3_reloader) - [Usage](https://feng19.com/2019/03/14/rebar3_reloader_usage/)
   * [Tdata](https://github.com/feng19/tdata)
 
+## Donate addresses</summary>
+
+**ETH**:
+
+```
+0xf2E6F088430511e541a4dfaf10Ca632Dc788dA7F
+```
+
+**DOGE**:
+
+```
+DMtv1gsYRhFv2z9sYt9jzFbaDK4xwz9ZWv
+```
+
+**TRX**:
+
+```
+TLJsgx8AEw895XxsqMiCpvCM3bFVXzDYh2
+```
+
 ---
 
 <a href="https://www.buymeacoffee.com/kevinpan" target="_blank">
