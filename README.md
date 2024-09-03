@@ -36,11 +36,6 @@ DMtv1gsYRhFv2z9sYt9jzFbaDK4xwz9ZWv
 TLJsgx8AEw895XxsqMiCpvCM3bFVXzDYh2
 ```
 
----
-
-<a href="https://www.buymeacoffee.com/kevinpan" target="_blank">
- <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-</a>
 
 <!--
 **feng19/feng19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
