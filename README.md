@@ -1,3 +1,5 @@
+**I am looking for a job in Erlang/Elixir. If you are interested in me👋, please message me: kevin@feng19.com **
+
 
 ## Articles
   * [不停机 Upgrade Erlang Release](https://feng19.com/categories/Erlang-Release-Upgrade/)
