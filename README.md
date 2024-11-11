@@ -1,4 +1,4 @@
-**I am looking for a job in Erlang/Elixir. If you are interested in me👋, please message me: kevin@feng19.com**
+**Hi, I’m an experienced Elixir/Erlang engineer open for new job. If you are interested in me👋, please message me: kevin@feng19.com**
 
 
 ## Articles
